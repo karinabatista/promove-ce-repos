@@ -12,3 +12,4 @@ Paulo Silva - https://github.com/PauloRVHSilva
 Ricardo Brito - https://github.com/ricardobritao
 Silene Silva - https://github.com/SileneSilva
 Virginia Fernandes - https://github.com/virginiacfp
+
