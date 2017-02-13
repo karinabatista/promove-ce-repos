@@ -1,5 +1,6 @@
 # promove-ce-repos
 
+Bruno Cabral - https://github.com/oBrunoCabral
 Paulo Silva - https://github.com/PauloRVHSilva
 https://github.com/italoangelo13
 https://github.com/Glaysson1Santos
